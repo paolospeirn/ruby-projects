@@ -8,5 +8,5 @@ def hello
 end
 
 def greet(someone)
-  "Hello, #{soneone}!"
+  "Hello, #{someone}!"
 end
